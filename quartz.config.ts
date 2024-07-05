@@ -11,11 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "Will Shick",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: {null},
     locale: "en-US",
-    baseUrl: "wshick.github.io",
+    baseUrl: "wshick.github.io/portfolio",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
