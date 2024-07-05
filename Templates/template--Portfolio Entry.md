@@ -1,0 +1,31 @@
+# TITLE
+(Hero Shot)
+## BRIEF
+Body text.
+## RESEARCH
+Body text.
+### PROBLEM IDENTIFICATION
+Body text.
+## IDEATION
+### SKETCHES
+
+### STUDY MODELS
+
+## DEVELOPMENT
+### CAD
+
+### MOCKUPS
+
+## FINAL PRODUCT
+### RENDERS
+
+### PROTOTYPE
+
+## OTHER DELIVERABLES
+### ASSEMBLY
+
+### TECHNICAL DRAWINGS
+
+### PACKAGING
+
+### &C
